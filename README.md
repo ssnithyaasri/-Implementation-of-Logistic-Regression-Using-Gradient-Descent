@@ -7,7 +7,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
+
 1.Initialize Parameters: Set initial values for the weights (w) and bias (b).
 2.Compute Predictions: Calculate the predicted probabilities using the logistic function.
 3.Compute Gradient: Compute the gradient of the loss function with respect to w and b.
